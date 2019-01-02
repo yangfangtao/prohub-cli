@@ -75,9 +75,9 @@ const logSymbols = require('log-symbols')
 npm i -g prohub-cli
 ```
 
-1.打开`npmjs.com`官网			
-2.注册一个npm账号。	        	
-3.发包。在npm检索是否有重名的包名	             	
+1.打开`npmjs.com`官网	       
+2.注册一个npm账号。            
+3.发包。在npm检索是否有重名的包名	            
 4.在`package.json`中的`name`修改为发布到npm上的包名               
 5.打开控制台，执行 `npm login`,在控制台登陆npm, 输入用户名和密码，邮箱。                
 6.此时npm的网址必须是原网址，淘宝镜像不可以哦。              
